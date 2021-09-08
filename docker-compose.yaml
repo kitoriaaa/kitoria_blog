@@ -1,7 +1,7 @@
 version: '3'
 services: 
   work:
-    image: klakegg/hugo:0.83.1-ubuntu
+    image: klakegg/hugo:0.87.0-ubuntu
     volumes: 
       - .:/src
     ports: 
