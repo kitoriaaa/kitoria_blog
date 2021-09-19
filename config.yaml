@@ -1,4 +1,4 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://kitoria-blog.vercel.app/
 
 languageCode: jp
 title: "kitoria's blog"
@@ -54,9 +54,9 @@ params:
     # favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/kitoriaaa/kitoria_blog
   # Default branch of your Git repo
-  gitBranch: source
+  gitBranch: main
 
   # Configure various features of this theme
   features:
