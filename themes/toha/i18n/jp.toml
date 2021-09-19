@@ -1,9 +1,9 @@
 # More documentation here: https://github.com/nicksnyder/go-i18n
 [home]
-other = "ホーム"
+other = "Home"
 
 [posts]
-other = "記事"
+other = "Posts"
 
 [toc_heading]
 other = "目次"
@@ -72,7 +72,7 @@ other = "合計クレジット"
 other = "取得したクレジット"
 
 [extracurricular_activities]
-other = "課外活動"
+other = " "
 
 [show_more]
 other = "続きを見る"
@@ -111,7 +111,7 @@ other = "もっと"
 other = "ビューの証明書"
 
 [notes]
-other = "ノート"
+other = "Notes"
 
 [disclaimer_text]
 other = "責任通知"
