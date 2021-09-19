@@ -1,0 +1,60 @@
+# section information
+section:
+  name: Biography
+  id: biography
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: 工学部電子情報システム工学専攻
+  timeframe: 2017/04
+  institution:
+    name: 大学入学
+
+- name: 研究内容
+  timeframe: 2020/04
+  institution:
+    name: 研究室配属
+  extracurricularActivities: #(optional)
+    - 機械学習によるスケッチベースのモデリング手法
+    - HoloLens2を利用したスケッチベースのモデリングアプリ
+
+- name: Nextjs, React, TypeScriptを用いたモダンフロントエンド開発
+  timeframe: 2021/03/22 - 03/26
+  institution:
+    name: クックパッド株式会社 Spring Internship
+  extracurricularActivities: #(optional)
+    - 料理のレシピサイト作成
+    - 仕様技術： Nextjs, React, TypeScript, Vercel
+
+- name: 
+  timeframe: 2021/03
+  institution:
+    name: 学部卒業
+
+- name: 情報システム工学分野 
+  timeframe: 2021/04
+  institution:
+    name: 大学院入学
+
+- name: 実際の業務に参加し、アジャイルでのソフトウェア開発を経験
+  timeframe: 2021/08/23 - 09/03
+  institution:
+    name: ヤフー株式会社 2021 Summer Internship
+    url: https://about.yahoo.co.jp/hr/internship/1030/
+  extracurricularActivities: #(optional)
+    - サーキットブレーカーの実装, メトリクス作成
+    - 仕様技術： kubernetes, Golang, prometheus, スクラム
+
+- name: チームでクラウドネイティブなアプリケーション開発
+  timeframe: 2021/09/06 - 09/10
+  institution:
+    name: 富士通クラウドテクノロジーズ株式会社 インターンシップ
+  extracurricularActivities: #(optional)
+    - 蔵書管理アプリケーションの開発
+    - 仕様技術： DDD, gRPC, dapr, kubernetes
+
